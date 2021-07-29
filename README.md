@@ -10,7 +10,8 @@ My github
 # Last 3 Projects
 
 
-##  3 Project  Angular Firebase Authentication / CRUD App with not  100% working
+##  3 Project  Angular Firebase Authentication / CRUD App Tutorials
+(Warning this project is Angular playground I tried there a lot of things and there are a lot of mistakes.)
 
 Code Github
 [https://github.com/jakubtomas/AngularRouting](https://github.com/jakubtomas/AngularRouting)
