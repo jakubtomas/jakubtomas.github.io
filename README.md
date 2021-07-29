@@ -1,10 +1,9 @@
 # Jakub Tomáš 
-Website about me 
-
-# About me 
+Website/ Projects 
 
 
-# Projects
+
+# Last 3 Projects
 
 
 ##  3 Project  Angular Firebase Authentication / CRUD App with not  100% working
