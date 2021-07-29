@@ -8,7 +8,7 @@ Website about me
 
 
 ##  3 Project  Angular Firebase Authentication / CRUD App with not  100% working
-[link to Github](https://github.com/jakubtomas/AngularRouting)
+[https://github.com/jakubtomas/AngularRouting](https://github.com/jakubtomas/AngularRouting)
 
 
 CRUD Firebase 
@@ -19,7 +19,7 @@ Firebase Authentication not 100% done
 
 
 ##  2 Project  Angular Fake WeatherAPI / Mapbox
-[link to Github!](https://github.com/jakubtomas/appweather)
+[https://github.com/jakubtomas/appweather](https://github.com/jakubtomas/appweather)
 
 
 fetch data from API and drawing /(sketch) marks on the map and reload list of places in left menu.
@@ -35,11 +35,11 @@ fetch data from API and drawing /(sketch) marks on the map and reload list of pl
  ##########################################################3
 
 ## 1 Project  Messanger Angular SpringBoot / MongoDB (Project with classmate)
-[link to Github Angular!](https://github.com/jakubtomas/Messanger/)
+[https://github.com/jakubtomas/Messanger/](https://github.com/jakubtomas/Messanger/)
 
 
 SpringBoot 
-[link to Github SpringBoot!](https://github.com/MiroslavJackanin/AngularServer/commits/master)
+[https://github.com/MiroslavJackanin/AngularServer/commits/master](https://github.com/MiroslavJackanin/AngularServer/commits/master)
 
 Registration Form
 Login Form
