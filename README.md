@@ -31,7 +31,7 @@ fetch data from API and drawing /(sketch) marks on the map and reload list of pl
 
 > Click function -> click on the city from list of cities -> change place on the map with animation.
 
-> Click function  -> click on the mark and show data from next to mark
+> Click function  -> click on the mark and show data information 
 
 
 ![GitHub Logo](/images/weather.png)
