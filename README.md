@@ -8,6 +8,8 @@ Website about me
 
 
 ##  3 Project  Angular Firebase Authentication / CRUD App with not  100% working
+
+Code Github
 [https://github.com/jakubtomas/AngularRouting](https://github.com/jakubtomas/AngularRouting)
 
 
@@ -35,7 +37,7 @@ fetch data from API and drawing /(sketch) marks on the map and reload list of pl
  ##########################################################3
 
 ## 1 Project  Messanger Angular SpringBoot / MongoDB (Project with classmate)
-Angular
+Angular Github
 
 [https://github.com/jakubtomas/Messanger/](https://github.com/jakubtomas/Messanger/)
 
