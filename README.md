@@ -12,13 +12,14 @@ My github
 Start 09/2021 to 4/2022
 Project is online https://project1-c2cfd.web.app/
 
-Function 
-
-Create account 
 
 Code Github
 [https://github.com/jakubtomas/RMS](https://github.com/jakubtomas/RMS)
 
+
+Functions 
+
+Create account 
 
 CRUD Firebase 
 Save 
