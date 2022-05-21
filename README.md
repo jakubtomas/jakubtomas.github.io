@@ -7,10 +7,10 @@ My github
 [https://github.com/jakubtomas](https://github.com/jakubtomas)
 
 
-# Last 3 Projects
+# Last Personal 4 Projects
 
 
-##  3 Project  Angular Firebase Authentication / CRUD App Tutorials
+##  3 Project  Angular Firebase Authentication / CRUD App Tutorials 08/2021
 (Warning this project is Angular playground I tried there a lot of things and there are a lot of mistakes.)
 
 Code Github
@@ -26,7 +26,7 @@ Firebase Authentication not 100% done
 
 ![Firebase 2](/images/firebase.png)
 
-##  2 Project  Angular Fake WeatherAPI / Mapbox
+##  2 Project  Angular Fake WeatherAPI / Mapbox 04/2021
 [https://github.com/jakubtomas/appweather](https://github.com/jakubtomas/appweather)
 
 
@@ -42,7 +42,7 @@ fetch data from API and drawing /(sketch) marks on the map and reload list of pl
 ![GitHub Logo](/images/weather.png)
  ##########################################################3
 
-## 1 Project  Messanger Angular SpringBoot / MongoDB (Project with classmate)
+## 1 Project  Messanger Angular SpringBoot / MongoDB (Project with classmate) 01/2021
 Angular Github
 
 [https://github.com/jakubtomas/Messanger/](https://github.com/jakubtomas/Messanger/)
