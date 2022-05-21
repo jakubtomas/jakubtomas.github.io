@@ -56,7 +56,7 @@ Firebase Authentication not 100% done
 
 ![Firebase 2](/images/firebase.png)
 
-##  2 Project  Angular Fake WeatherAPI / Mapbox 04/2021
+##  2 Project  Angular Fake WeatherAPI / Mapbox 04/2021  Javascript 
 [https://github.com/jakubtomas/appweather](https://github.com/jakubtomas/appweather)
 
 
