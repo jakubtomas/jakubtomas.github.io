@@ -20,11 +20,6 @@ Save
 Firebase Authentication 
 Firestore Database 
 
-![Firebase](/images/three.png)
-
-
-![Firebase 2](/images/firebase.png)
-
 
 ##  3 Project  Angular Firebase Authentication / CRUD App Tutorials 08/2021
 (Warning this project is Angular playground I tried there a lot of things and there are a lot of mistakes.)
