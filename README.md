@@ -8,6 +8,22 @@ My github
 
 
 # Last Personal 4 Projects
+##  4 RMS (Reservation Management System ) / Ionic Framework, Firestore, Rxjs  09/2021 to 4/2022
+
+
+Code Github
+[https://github.com/jakubtomas/RMS](https://github.com/jakubtomas/RMS)
+
+
+CRUD Firebase 
+Save 
+Firebase Authentication 
+Firestore Database 
+
+![Firebase](/images/three.png)
+
+
+![Firebase 2](/images/firebase.png)
 
 
 ##  3 Project  Angular Firebase Authentication / CRUD App Tutorials 08/2021
