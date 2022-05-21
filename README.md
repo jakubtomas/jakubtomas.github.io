@@ -8,8 +8,13 @@ My github
 
 
 # Last Personal 4 Projects
-##  4 RMS (Reservation Management System ) / Ionic Framework, Firestore, Rxjs  09/2021 to 4/2022
+##  4 RMS (Reservation Management System ) / Ionic Framework, Firestore, Rxjs 
+Start 09/2021 to 4/2022
+Project is online https://project1-c2cfd.web.app/
 
+Function 
+
+Create account 
 
 Code Github
 [https://github.com/jakubtomas/RMS](https://github.com/jakubtomas/RMS)
@@ -20,6 +25,18 @@ Save
 Firebase Authentication 
 Firestore Database 
 
+Registration user by email,
+Searching Organizations,
+CRUD Organizations.
+CRUD Meetings
+
+Validation forms
+Working with rxjs, stream of data 
+Routing, pipes 
+
+using also  ionic2-calendar
+https://www.npmjs.com/package/ionic2-calendar
+
 
 ##  3 Project  Angular Firebase Authentication / CRUD App Tutorials 08/2021
 (Warning this project is Angular playground I tried there a lot of things and there are a lot of mistakes.)
@@ -29,6 +46,7 @@ Code Github
 
 
 CRUD Firebase 
+
 Save 
 Firebase Authentication not 100% done
 
