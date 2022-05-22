@@ -31,9 +31,9 @@ Searching Organizations,
 CRUD Organizations.
 CRUD Meetings
 
-Validation forms
+Validation forms,
 Working with rxjs, stream of data 
-Routing, pipes 
+Routing, pipes, 
 
 using also  ionic2-calendar
 https://www.npmjs.com/package/ionic2-calendar
