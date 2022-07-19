@@ -1,15 +1,16 @@
 # Jakub Tomáš 
-Website/ Projects 
+ 
 
 Hello, My name is Jakub Tomáš I am 25 years old and I am from Košice. I describe myself as a passionate web developer who loves
 coding and learning. I am a Front End Developer with over one year experience. My domain is mainly Angular framework but also I have
 some experience with Javascript.
 
-
 My github 
 
 [https://github.com/jakubtomas](https://github.com/jakubtomas)
 
+
+Website/ Projects
 
 # Last Personal 4 Projects
 ##  4 RMS (Reservation Management System ) / Ionic Framework, Firestore, Rxjs 
