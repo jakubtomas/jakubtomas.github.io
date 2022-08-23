@@ -21,7 +21,7 @@ CRUD item
 
 Code Github
 [https://github.com/jakubtomas/AngularNGXS)
-
+![GitHub Logo](/images/todo.png)
 
 
 
@@ -35,7 +35,7 @@ Project is online
 Code Github
 [https://github.com/jakubtomas/RMS](https://github.com/jakubtomas/RMS)
 
-
+![GitHub Logo](/images/rms.png)
 Functions 
 
 Create account 
