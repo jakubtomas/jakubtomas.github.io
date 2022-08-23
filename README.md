@@ -13,10 +13,24 @@ My github
 Website/ Projects
 
 # Last Personal 4 Projects
-##  4 RMS (Reservation Management System ) / Ionic Framework, Firestore, Rxjs 
-Start 09/2021 to 4/2022
-Project is online https://project1-c2cfd.web.app/
 
+##  4 Todo app (Angular, Rxjs, NGXS, REST API)
+
+CRUD item
+- using mock web api 
+
+Code Github
+[https://github.com/jakubtomas/AngularNGXS)
+
+
+
+
+
+##  3 RMS (Reservation Management System ) / Ionic Framework, Firestore, Rxjs 
+Start 09/2021 to 4/2022
+Project is online
+
+[https://project1-c2cfd.web.app/](https://project1-c2cfd.web.app/)
 
 Code Github
 [https://github.com/jakubtomas/RMS](https://github.com/jakubtomas/RMS)
@@ -44,24 +58,8 @@ using also  ionic2-calendar
 https://www.npmjs.com/package/ionic2-calendar
 
 
-##  3 Project  Angular Firebase Authentication / CRUD App Tutorials 08/2021
-(Warning this project is Angular playground I tried there a lot of things and there are a lot of mistakes.)
 
-Code Github
-[https://github.com/jakubtomas/AngularRouting](https://github.com/jakubtomas/AngularRouting)
-
-
-CRUD Firebase 
-
-Save 
-Firebase Authentication not 100% done
-
-![Firebase](/images/three.png)
-
-
-![Firebase 2](/images/firebase.png)
-
-##  2 Project  Angular Fake WeatherAPI / Mapbox 04/2021  Javascript 
+##  2 Project  Angular Mock WeatherAPI / Mapbox 04/2021  Javascript 
 [https://github.com/jakubtomas/appweather](https://github.com/jakubtomas/appweather)
 
 
