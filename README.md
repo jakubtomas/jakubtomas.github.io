@@ -14,7 +14,7 @@ Website/ Projects
 
 # Last Personal 4 Projects
 
-##  4 Todo app (Angular, Rxjs, NGXS, REST API)
+##  4 Todo app (Angular, Rxjs, NGXS, REST API, Angular Material)
 
 CRUD item
 - using mock web api 
