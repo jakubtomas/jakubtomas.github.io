@@ -34,7 +34,7 @@ Project is online
 [https://project1-c2cfd.web.app/](https://project1-c2cfd.web.app/)
 
 Code Github
-[https://github.com/jakubtomas/RMS](https://github.com/jakubtomas/RMS)
+[https://github.com/jakubtomas/AngularRMS](https://github.com/jakubtomas/AngularRMS)
 
 ![GitHub Logo](/images/rms.png)
 Functions 
