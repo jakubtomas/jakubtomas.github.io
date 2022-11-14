@@ -20,7 +20,7 @@ CRUD item
 - using mock web api 
 
 Code Github
-[https://github.com/jakubtomas/AngularNGXS](https://github.com/jakubtomas/AngularNGXS)
+[https://github.com/jakubtomas/todo](https://github.com/jakubtomas/todo)
 
 ![GitHub Logo](/images/todo.png)
 
