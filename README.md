@@ -15,11 +15,14 @@ Website/ Projects
 # Last Personal 5 Projects
 
 ##  5 Todo app (Vue3 Composition API )
+| Technology           | Version       |
+|----------------------|---------------|
+| Validation           | VeeValidate   |
+| Translation          | vue-i18n: ^9.2.2 |
+| Pop-up messages      | sweetalert2   |
+| REST API             | -             |
+| Design               | Bootstrap 5.3 |
 
-### Validation (VeeValidate),
-### translation("vue-i18n": "^9.2.2"),
-### Pop-up messages (sweetalert2",
-### REST API,Design Bootstrap 5.3,
 
 
 Code Github
