@@ -28,6 +28,15 @@ Website/ Projects
 | yup             | ^0.32.8     | Schema validation library for JavaScript.        |
 
 
+### mockapi.io/todos
+| Request Type | Address                   |
+|--------------|---------------------------|
+| GET          | /:id/item                 |
+| GET          | /:id/item/:id             |
+| POST         | todos/:id/item            |
+| PUT          | /todos/:id/item/:id       |
+| DELETE       | /todos/:id/item/:id       |
+
 
 
 Code Github
