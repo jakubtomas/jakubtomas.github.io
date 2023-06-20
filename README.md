@@ -1,9 +1,7 @@
 # Jakub Tomáš 
  
 
-Hello, My name is Jakub Tomáš I am 26 years old and I am from Košice. I describe myself as a passionate web developer who loves
-coding and learning. I am a Front End Developer with over one year experience. My domain is mainly Angular and Vue framework but also I have
-some experience with Backend .
+Hello, my name is Jakub Tomáš. I am 26 years old and I am from Košice. I describe myself as a passionate web developer who loves coding and learning. With over one year of experience, I specialize in Front End Development, particularly in Angular and Vue frameworks. I also have some experience with Backend development. Recently, I have been exploring the composition API in Vue 3 and have even created a todo app using a mock API."Below are my 5 personal projects that I believe you will like them.
 
 My github 
 
@@ -18,6 +16,7 @@ Website/ Projects
 Code Github
 [https://github.com/jakubtomas](https://github.com/jakubtomas/todoapp-vue3-composition-api)
 
+![GitHub Logo](/images/todovue3.png)
 | Technology      | Version      | Description                                      |
 |-----------------|--------------|--------------------------------------------------|
 | Validation      | VeeValidate  | Form validation library for Vue.js applications. |
