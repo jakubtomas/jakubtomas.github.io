@@ -1,8 +1,8 @@
 # Jakub Tomáš 
  
 
-Hello, My name is Jakub Tomáš I am 25 years old and I am from Košice. I describe myself as a passionate web developer who loves
-coding and learning. I am a Front End Developer with over one year experience. My domain is mainly Angular framework but also I have
+Hello, My name is Jakub Tomáš I am 26 years old and I am from Košice. I describe myself as a passionate web developer who loves
+coding and learning. I am a Front End Developer with over one year experience. My domain is mainly Angular and Vue framework but also I have
 some experience with Backend .
 
 My github 
@@ -12,7 +12,17 @@ My github
 
 Website/ Projects
 
-# Last Personal 4 Projects
+# Last Personal 5 Projects
+
+##  5 Todo app (Vue3 Composition API,  Store Pinia, Validation (VeeValidate), translation("vue-i18n": "^9.2.2"), Pop-up messages (sweetalert2"),REST API,Design Bootstrap 5.3)
+
+CRUD item
+- using mock web api 
+
+Code Github
+https://github.com/jakubtomas
+
+![GitHub Logo](/images/todo.png)
 
 ##  4 Todo app (Angular, Rxjs, NGXS, REST API, Angular Material)
 
@@ -29,7 +39,7 @@ Code Github
 
 ##  3 RMS (Reservation Management System ) / Ionic Framework, Firestore, Rxjs 
 Start 09/2021 to 4/2022
-Project is online
+Project is online but probably not working after long time.
 
 [https://project1-c2cfd.web.app/](https://project1-c2cfd.web.app/)
 
