@@ -14,15 +14,18 @@ Website/ Projects
 
 # Last Personal 5 Projects
 
-##  5 Todo app (Vue3 Composition API,  Store Pinia, Validation (VeeValidate), translation("vue-i18n": "^9.2.2"), Pop-up messages (sweetalert2"),REST API,Design Bootstrap 5.3)
+##  5 Todo app (Vue3 Composition API )
 
-CRUD item
-- using mock web api 
+### Validation (VeeValidate),
+### translation("vue-i18n": "^9.2.2"),
+### Pop-up messages (sweetalert2",
+### REST API,Design Bootstrap 5.3,
+
 
 Code Github
 https://github.com/jakubtomas
 
-![GitHub Logo](/images/todo.png)
+
 
 ##  4 Todo app (Angular, Rxjs, NGXS, REST API, Angular Material)
 
