@@ -15,6 +15,9 @@ Website/ Projects
 # Last Personal 5 Projects
 
 ##  5 Todo app (Vue3 Composition API )
+Code Github
+[https://github.com/jakubtomas](https://github.com/jakubtomas/todoapp-vue3-composition-api)
+
 | Technology      | Version      | Description                                      |
 |-----------------|--------------|--------------------------------------------------|
 | Validation      | VeeValidate  | Form validation library for Vue.js applications. |
@@ -40,7 +43,7 @@ Website/ Projects
 
 
 Code Github
-https://github.com/jakubtomas
+[https://github.com/jakubtomas](https://github.com/jakubtomas/todoapp-vue3-composition-api)
 
 
 
