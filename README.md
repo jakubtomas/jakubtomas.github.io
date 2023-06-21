@@ -18,24 +18,24 @@ Code Github
 
 ![GitHub Logo](/images/todovue3.png)
 | Technology      | Version      | Description                                      |
-Validation       -> VeeValidate      -> Form validation library for Vue.js applications.
-Translation      -> vue-i18n: ^9.2.2 -> Internationalization plugin for Vue.js.
-Pop-up messages  -> sweetalert2      -> Customizable pop-up message library.
-REST API         ->                  -> Communication interface for web services.
-Design ->         Bootstrap 5.3      -> Front-end framework for responsive web design.
-lodash ->         ^4.17.21           -> Utility library for working with JavaScript.
-pinia           -> ^2.0.33           -> State management solution for Vue.js.
-vue-router -> ^4.0.3                 -> Official router for Vue.js applications.
-yup -> ^0.32.8                       -> Schema validation library for JavaScript.
+- Validation       -> VeeValidate      -> Form validation library for Vue.js applications.
+- Translation      -> vue-i18n: ^9.2.2 -> Internationalization plugin for Vue.js.
+- Pop-up messages  -> sweetalert2      -> Customizable pop-up message library.
+- REST API         ->                  -> Communication interface for web services.
+- Design ->         Bootstrap 5.3      -> Front-end framework for responsive web design.
+- lodash ->         ^4.17.21           -> Utility library for working with JavaScript.
+- pinia           -> ^2.0.33           -> State management solution for Vue.js.
+- vue-router -> ^4.0.3                 -> Official router for Vue.js applications.
+- yup -> ^0.32.8                       -> Schema validation library for JavaScript.
 
 
 ### mockapi.io/todos
 | Request Type | Address                   |
-GET -> /:id/item
-GET -> /:id/item/:id
-POST -> todos/:id/item
-PUT -> /todos/:id/item/:id
-DELETE -> /todos/:id/item/:id
+- GET -> /:id/item
+- GET -> /:id/item/:id
+- POST -> todos/:id/item
+- PUT -> /todos/:id/item/:id
+- DELETE -> /todos/:id/item/:id
 
 
 Code Github
