@@ -1,7 +1,10 @@
-# Jakub Tomáš 
+#  Hi, I'm Jakub Tomáš  👋
  
-
+## 🚀 About Me
 Hello, my name is Jakub Tomáš. I am 26 years old and I am from Košice. I describe myself as a passionate web developer who loves coding and learning. With over one year of experience, I specialize in Front End Development, particularly in Angular and Vue frameworks. I also have some experience with Backend development. Recently, I have been exploring the composition API in Vue 3 and have even created a todo app using a mock API."Below are my 5 personal projects that I believe you will like them.
+
+## 🛠 Skills
+Javascript, HTML, CSS, Angular (Rxjs, NGXS) , Vue3 (Composition API, Pinia), REST API (CRUD), GIT, OOP
 
 My github 
 
