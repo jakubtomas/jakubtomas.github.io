@@ -37,6 +37,13 @@ Collaboration with backend developers and QA during feature development
 
 Use of Git for version control, feature branching, and code reviews
 
+## Freelancer 8/2022 to 8/2023
+client side development (Angular, Vue3- Compostion API)
+developed web interfaces using HTML5, CSS3 (Bootstrap)
+implemented functionality using a REST API for CRUD operations ( async functions)
+working with authentication, translation and form validation(Veevalidate)
+problem-solving and debugging (testing)
+
 
 
 ## 🛠 Skills
