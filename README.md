@@ -9,7 +9,7 @@ I also have experience with Vue, particularly Vue 3 and the Composition API, and
 
 I’m passionate about clean code, problem solving, and building user-friendly interfaces. I’m always looking for opportunities to grow as a developer and work on interesting projects.
 
-## Last job  Angular Developer – Responsibilities / Achievements (10/2023  , 12/2025)
+## Last job  Angular Developer – Responsibilities / Achievements (10/2023  , 12/2025) SmartEmailing a.s. (CZ)
 
 Development and maintenance of a large-scale Angular application
 
@@ -39,9 +39,13 @@ Use of Git for version control, feature branching, and code reviews
 
 ## Freelancer 8/2022 to 8/2023
 client side development (Angular, Vue3- Compostion API)
+
 developed web interfaces using HTML5, CSS3 (Bootstrap)
+
 implemented functionality using a REST API for CRUD operations ( async functions)
+
 working with authentication, translation and form validation(Veevalidate)
+
 problem-solving and debugging (testing)
 
 
