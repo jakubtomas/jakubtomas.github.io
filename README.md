@@ -1,7 +1,43 @@
 #  Hi, I'm Jakub Tomáš  👋
  
 ## 🚀 About Me
-Hello, my name is Jakub Tomáš. I am 26 years old and I am from Košice. I describe myself as a passionate web developer who loves coding and learning. With over one year of experience, I specialize in Front End Development, particularly in Angular and Vue frameworks. I also have some experience with Backend development. Recently, I have been exploring the composition API in Vue 3 and have even created a todo app using a mock API."Below are my 5 personal projects that I believe you will like them.
+Hello, my name is Jakub Tomáš, and I’m a Front-End Developer based in Košice.
+
+I enjoy building web applications and continuously improving my development skills. Over the past few years, I have mainly focused on the Angular framework, developing user interfaces, working with components, forms, and application logic in TypeScript.
+
+I also have experience with Vue, particularly Vue 3 and the Composition API, and a basic understanding of backend technologies. While my main focus is front-end development, I enjoy learning about the full web development process.
+
+I’m passionate about clean code, problem solving, and building user-friendly interfaces. I’m always looking for opportunities to grow as a developer and work on interesting projects.
+
+## Last job  Angular Developer – Responsibilities / Achievements (10/2023  , 12/2025)
+
+Development and maintenance of a large-scale Angular application
+
+Implementation of complex reactive forms and multi-step workflows (ng value accessor)
+
+Design and implementation of data import functionality including file parsing, column mapping, and validation
+
+Development of dynamic UI components with reusable architecture
+
+Implementation of Angular routing and navigation logic, including handling of query parameters and conditional navigation
+
+Management of state and component communication across multiple modules
+
+Implementation of toast notifications and error handling for improved user feedback
+
+Optimization of URL management and routing structure to simplify navigation between components
+
+Integration with REST APIs and handling asynchronous data flows
+
+Implementation of data processing logic in TypeScript with strict typing
+
+Refactoring and improving code maintainability and modular architecture
+
+Collaboration with backend developers and QA during feature development
+
+Use of Git for version control, feature branching, and code reviews
+
+
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Angular (Rxjs, NGXS) , Vue3 (Composition API, Pinia), REST API (CRUD), GIT, OOP
@@ -11,7 +47,7 @@ My github
 [https://github.com/jakubtomas](https://github.com/jakubtomas)
 
 
-Website/ Projects
+Website/ Projects From school
 
 # Last Personal 5 Projects
 
